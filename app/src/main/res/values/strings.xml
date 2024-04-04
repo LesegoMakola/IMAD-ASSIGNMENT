@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HistoryConversion</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="start">start</string>
+    <string name="entersurname">enterSurname</string>
+    <string name="result">result</string>
+    <string name="clear">clear</string>
+    <string name="begin">begin</string>
+    <string name="enter_you_age">enter_you_age</string>
+</resources>
