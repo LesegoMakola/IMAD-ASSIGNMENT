@@ -14,7 +14,12 @@ GitHub and GitHub actions play an important role in the development and maintena
 It provides a platform for developers and other users to engage with each other by sharing codes or seeking assistance when you are struggling with a project you are currently working on at the moment. It promotes knowledge. While using GitHub you do not have stress about your information of application getting lost or if you want to go back to your old versions it makes it easier for users to navigate their way back in case, they might face any challenges based on their new version. It makes it much easier for users to manage their work in one place and it is much easier for you to track all the changes that have been made in an application. It simplifies the process of building software. Using GitHub is not cost effective, which makes it to be much easier for everybody to have the right access to use resources and gain knowledge from it. It helps with access controls to protect sensitive information. It helps in maintaining a clean codebase.
 
 In conclusion my history application will play an increasingly important role based on the sharing of our collective past for future generations. While technology keeps on evolving every day. It helps to democratize access to historical knowledge. Creating a history app will help a lot of people in the future because in the next coming generations technology can take over books. Some users might not be interested in reading a book so once some users see a perfect and good-looking UI, they will want to find out about what happened in the past. The mobile application will inspire a lot of people to learn about history especially the youth who do not like reading books my application will reduce the time they take on social media platforms and this will make them to gain more knowledge about history.
+
 References 
+
+
+
+
 This is the link of my video at youtube below
 https://youtu.be/2HhCz9ApI8c?si=BjuEcxzrAAoC5ovp
 
